@@ -45,7 +45,7 @@ requirements.txt
 ## Quick start
 
 ```bash
-git clone <your-repo-url>
+git clone 
 cd mapf-comparison
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -83,6 +83,3 @@ method, mean/std runtime per config and algorithm).
 
 The source papers are not redistributed here; please obtain them from the publishers.
 
-## License
-
-MIT — replace `<YOUR NAME>` in `LICENSE` before publishing.
