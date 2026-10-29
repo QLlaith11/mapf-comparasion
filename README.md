@@ -45,7 +45,7 @@ requirements.txt
 ## Quick start
 
 ```bash
-git clone 
+git clone https://github.com/QLlaith11/mapf-comparasion.git
 cd mapf-comparison
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
